@@ -1,1 +1,1 @@
-this is a test for first GIT exercise
+this is kamal's first GIT exercise
